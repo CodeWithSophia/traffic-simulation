@@ -44,6 +44,8 @@ This project implements an **intelligent traffic management system** for a T-int
    - Comparison with fixed-time systems
 
 ---
+## Screenshot
+![Traffic Simulation Screenshot](traffic-result.png)
 
 ##  How to Run
 
